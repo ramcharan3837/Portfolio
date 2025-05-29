@@ -8,7 +8,7 @@ function Type() {
                 <Typewriter
                     options={{
                         strings: [
-                            "I'M PRANAV DUNNA",
+                            "I'M RAM CHARAN",
                             "WELCOME TO MY PORTFOLIO"
                         ],
                         autoStart: true,

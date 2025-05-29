@@ -43,7 +43,7 @@ export default function Header() {
     return (
         <div className='full-container'>
             <div className='navbar-container'>
-            <Link to={'/'} style={{ textDecoration: 'none', color: 'inherit' }}><h1 className='heading yellow'>pd</h1></Link>
+            <Link to={'/'} style={{ textDecoration: 'none', color: 'inherit' }}><h1 className='heading yellow'>RC</h1></Link>
                 <div className='combined-nav'>
                     <Link to={'/'} style={{ textDecoration: 'none', color: 'inherit' }}>
                         <span className='individual-nav'>
